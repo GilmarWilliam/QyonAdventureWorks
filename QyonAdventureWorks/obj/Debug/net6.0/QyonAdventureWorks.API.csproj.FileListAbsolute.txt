@@ -69,3 +69,4 @@ C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks\obj\Deb
 C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks\obj\Debug\net6.0\QyonAdventureWorks.Api.pdb
 C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks\obj\Debug\net6.0\QyonAdventureWorks.Api.genruntimeconfig.cache
 C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks\obj\Debug\net6.0\ref\QyonAdventureWorks.Api.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks\bin\Debug\net6.0\DataAnnotationsExtensions.dll

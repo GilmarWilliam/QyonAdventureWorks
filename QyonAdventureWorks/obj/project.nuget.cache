@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V60CWjkWzVLaYsbj/SCg3ymnLhh4WcjpKIAN0DizL19wUJ0g6drItMPhvZHpB/yq9LTr9cnQ4KidNdBPpp7Irw==",
+  "dgSpecHash": "TWxw8yjhi24BPjpEOe8ZvpVujWDz+0N0UUgfp0YF/1pR8gn/T6SkHtNCr1ONR9PO/VQZi952mwa0+fR3iaAj7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\gilmar.silva\\source\\repos\\QyonAdventureWorks\\QyonAdventureWorks\\QyonAdventureWorks.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gilmar.silva\\.nuget\\packages\\dataannotationsextensions\\5.0.1.27\\dataannotationsextensions.5.0.1.27.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -54,5 +55,16 @@
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DataAnnotationsExtensions 5.0.1.27' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DataAnnotationsExtensions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

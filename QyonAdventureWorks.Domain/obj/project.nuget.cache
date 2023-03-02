@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ChVpiuw+B/bl+3mLxXFLtXTjIOg+js0cphdm7DsHIE6nZYsLEfFtUeECd+WQLx6bYvR97hyykFA48AH5+81vhA==",
+  "dgSpecHash": "BOy+0179TGInIHp+q2ipXNtPixfgiXm46C4hRw+/cQWIfYHpUWfvP4toXcgBw84Rc3zZLYM+62+QFhIW9mZx7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\gilmar.silva\\source\\repos\\QyonAdventureWorks\\QyonAdventureWorks.Domain\\QyonAdventureWorks.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gilmar.silva\\.nuget\\packages\\dataannotationsextensions\\5.0.1.27\\dataannotationsextensions.5.0.1.27.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.14\\microsoft.entityframeworkcore.6.0.14.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.14\\microsoft.entityframeworkcore.abstractions.6.0.14.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.14\\microsoft.entityframeworkcore.analyzers.6.0.14.nupkg.sha512",
@@ -19,5 +20,16 @@
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\gilmar.silva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DataAnnotationsExtensions 5.0.1.27' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DataAnnotationsExtensions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

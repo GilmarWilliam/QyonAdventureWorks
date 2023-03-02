@@ -9,6 +9,7 @@ namespace QyonAdventureWorks.Api.Controllers
     public class CompetidorController : ControllerBase
     {
         private readonly ICompetidorRepository _competidorRepository;
+
         public CompetidorController
         (
             ICompetidorRepository competidorRepository
@@ -21,13 +22,6 @@ namespace QyonAdventureWorks.Api.Controllers
         public async Task<ActionResult<List<Competidor>>> GetCompetidor()
         {
             var result = await _competidorRepository.GetCompetidor();
-            return Ok(result);
-        }
-
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Competidor>> GetCompetidorById(int id)
-        {
-            var result = await _competidorRepository.GetCompetidorById(id);
             return Ok(result);
         }
 
