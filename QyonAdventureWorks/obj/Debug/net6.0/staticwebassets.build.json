@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pcUxLmpNSDYK4AgbGNjayIAe7dimqI5Z8R2KPyn/Zts=",
+  "Source": "QyonAdventureWorks.Api",
+  "BasePath": "_content/QyonAdventureWorks.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

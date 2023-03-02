@@ -1,0 +1,12 @@
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\bin\Debug\net6.0\QyonAdventureWorks.Domain.deps.json
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\bin\Debug\net6.0\QyonAdventureWorks.Domain.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\bin\Debug\net6.0\QyonAdventureWorks.Domain.pdb
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.csproj.AssemblyReference.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.AssemblyInfoInputs.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.AssemblyInfo.cs
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\refint\QyonAdventureWorks.Domain.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\QyonAdventureWorks.Domain.pdb
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Domain\obj\Debug\net6.0\ref\QyonAdventureWorks.Domain.dll

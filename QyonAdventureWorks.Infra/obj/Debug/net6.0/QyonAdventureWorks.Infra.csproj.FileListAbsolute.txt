@@ -1,0 +1,15 @@
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\bin\Debug\net6.0\QyonAdventureWorks.Infra.deps.json
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\bin\Debug\net6.0\QyonAdventureWorks.Infra.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\bin\Debug\net6.0\QyonAdventureWorks.Infra.pdb
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\bin\Debug\net6.0\QyonAdventureWorks.Domain.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\bin\Debug\net6.0\QyonAdventureWorks.Domain.pdb
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.csproj.AssemblyReference.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.AssemblyInfoInputs.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.AssemblyInfo.cs
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.csproj.CopyComplete
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\refint\QyonAdventureWorks.Infra.dll
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\QyonAdventureWorks.Infra.pdb
+C:\Users\gilmar.silva\source\repos\QyonAdventureWorks\QyonAdventureWorks.Infra\obj\Debug\net6.0\ref\QyonAdventureWorks.Infra.dll
