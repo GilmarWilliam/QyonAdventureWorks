@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using QyonAdventureWorks.Domain.Repositories;
+using QyonAdventureWorks.Api;
 using QyonAdventureWorks.Infra.Config;
-using QyonAdventureWorks.Infra.Repositories;
 
 namespace QyonAdventureWorks
 {
@@ -23,26 +22,10 @@ namespace QyonAdventureWorks
                     options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase"), b => b.MigrationsAssembly("QyonAdventureWorks.Api"))
                 );
 
-            builder.Services.AddScoped<ICompetidorRepository, CompetidorRepository>();
-            builder.Services.AddScoped<IHistoricoCorridaRepository, HistoricoCorridaRepository>();
-            builder.Services.AddScoped<IPistaCorridaRepository, PistaCorridaRepository>();
-
+            var startup = new Startup(builder.Configuration);
+            startup.ConfigureServices(builder.Services);
             var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-            app.MapControllers();
-
-            app.Run();
+            startup.Configure(app);
         }
     }
 }

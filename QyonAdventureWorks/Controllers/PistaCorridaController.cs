@@ -18,6 +18,13 @@ namespace QyonAdventureWorks.Api.Controllers
             _pistaCorridaRepository = pistaCorridaRepository;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<List<PistaCorrida>>> GetPistaCorridaById(int id)
+        {
+            var result = await _pistaCorridaRepository.GetPistaCorridaById(id);
+            return Ok(result);
+        }
+
         [HttpGet]
         public async Task<ActionResult<List<PistaCorrida>>> GetPistaCorrida()
         {

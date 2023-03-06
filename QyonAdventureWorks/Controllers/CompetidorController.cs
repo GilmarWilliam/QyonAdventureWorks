@@ -18,6 +18,13 @@ namespace QyonAdventureWorks.Api.Controllers
             _competidorRepository = competidorRepository;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Competidor>> GetCompetidorById(int id)
+        {
+            var result = await _competidorRepository.GetCompetidorById(id);
+            return Ok(result);
+        }
+
         [HttpGet]
         public async Task<ActionResult<List<Competidor>>> GetCompetidor()
         {

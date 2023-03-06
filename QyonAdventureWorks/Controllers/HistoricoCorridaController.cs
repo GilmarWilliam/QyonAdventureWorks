@@ -18,6 +18,13 @@ namespace QyonAdventureWorks.Api.Controllers
             _historicoCorridaRepository = historicoCorridaRepository;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<HistoricoCorrida>> GetHistoricoCorridaById(int id)
+        {
+            var result = await _historicoCorridaRepository.GetHistoricoCorridaById(id);
+            return Ok(result);
+        }
+
         [HttpGet]
         public async Task<ActionResult<List<HistoricoCorrida>>> GetHistoricoCorrida()
         {
